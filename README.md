@@ -13,4 +13,7 @@ The best Mass Dm for discord. (Sending message with Token !)
 
 ![obraz](https://user-images.githubusercontent.com/80784394/123610559-ff508a00-d800-11eb-8ac5-db0e17ba4af5.png)
 
+# Legal ?
+The tool is illegal and I will not be held responsible.
+
 
